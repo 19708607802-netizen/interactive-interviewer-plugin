@@ -1,0 +1,3 @@
+[submodule ".agents/skills/socratic-dialogue"]
+	path = .agents/skills/socratic-dialogue
+	url = https://github.com/liulifeng8918/socratic-dialogue-skill.git
