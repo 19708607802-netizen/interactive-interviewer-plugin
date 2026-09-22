@@ -1,0 +1,6 @@
+{
+  "name": "interactive-interviewer",
+  "version": "1.0.0",
+  "description": "An adaptive clarification skill that asks high-value questions only when necessary and automatically starts execution once enough information is available.",
+  "license": "MIT"
+}
