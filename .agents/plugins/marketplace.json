@@ -1,0 +1,20 @@
+{
+  "name": "my-agent-skills",
+  "interface": {
+    "displayName": "My Agent Skills"
+  },
+  "plugins": [
+    {
+      "name": "interactive-interviewer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/interactive-interviewer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
